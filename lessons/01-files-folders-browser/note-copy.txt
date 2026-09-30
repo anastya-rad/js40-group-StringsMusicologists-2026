@@ -1,0 +1,2 @@
+lessons/01-files-folders-browser/.gitkeep lessons/01-files-folders-browser/images.jfif lessons/01-files-folders-browser/my-first-note.txt lessons/01-files-folders-browser/README.md
+Копирование работает!
